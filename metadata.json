@@ -1,0 +1,6 @@
+{
+  "name": "PermitPulse — Business Compliance Management",
+  "description": "Centralized license, document, deadline, calendar, and compliance management platform for HVAC and field service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
